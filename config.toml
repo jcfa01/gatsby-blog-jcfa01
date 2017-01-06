@@ -5,9 +5,8 @@ siteAuthor = "John Carlo Arellano"
 siteTelegramUrl = "https://telegram.me/jcfa01"
 siteTwitterUrl = "https://twitter.com/jcfa01"
 siteGithubUrl = "https://github.com/jcfa01"
-siteEmailUrl = "jcfa01@gmail.com"
+siteEmailUrl = "mailto:jcfa01@gmail.com"
 siteRssUrl = "#"
-siteVkUrl = "#"
 
 googleAnalyticsId = ""
 

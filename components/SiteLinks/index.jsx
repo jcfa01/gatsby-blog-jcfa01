@@ -17,9 +17,6 @@ class SiteLinks extends React.Component {
                 <li>
                   <a href={ config.siteGithubUrl }><i className='fa fa-github-alt'></i></a>
                 </li>
-                <li>
-                  <a href={ config.siteVkUrl }><i className='fa fa-vk'></i></a>
-                </li>
               </ul>
               <ul>
                 <li>
