@@ -5,9 +5,9 @@ siteAuthor = "John Carlo Arellano"
 siteTelegramUrl = "https://telegram.me/jcfa01"
 siteTwitterUrl = "https://twitter.com/jcfa01"
 siteGithubUrl = "https://github.com/jcfa01"
-siteEmailUrl = "mailto:jcfa01@gmail.com"
+#siteEmailUrl = "mailto:jcfa01@gmail.com"
 siteRssUrl = "#"
 
-googleAnalyticsId = ""
+googleAnalyticsId = "UA-39583790-1"
 
-linkPrefix = "/gatsby-starter-lumen"
+linkPrefix = "/gatsby-blog-jcfa01"
