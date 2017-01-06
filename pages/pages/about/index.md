@@ -7,5 +7,5 @@ path: "/about"
 Hey there, I'm JC welcome to my blog!
 
 <figure class="floatLeft">
-	<figcaption>Welcome</figcaption>
+	<img style="height: 400px; width: 400px;" src="./welcome-photo.jpg" alt="Welcome!">
 </figure>

@@ -1,4 +1,4 @@
-siteTitle = "Blog by John Carlo Arellano"
+siteTitle = "console.log('web dev');"
 siteDescr = "Web Developer"
 siteAuthor = "John Carlo Arellano"
 
@@ -6,7 +6,7 @@ siteTelegramUrl = "https://telegram.me/jcfa01"
 siteTwitterUrl = "https://twitter.com/jcfa01"
 siteGithubUrl = "https://github.com/jcfa01"
 #siteEmailUrl = "mailto:jcfa01@gmail.com"
-siteRssUrl = "#"
+#siteRssUrl = "#"
 
 googleAnalyticsId = "UA-39583790-1"
 
