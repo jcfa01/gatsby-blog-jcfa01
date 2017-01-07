@@ -21,8 +21,7 @@ class SiteLinks extends React.Component {
                   <a href={ config.siteTelegramUrl } target="_blank"><i className='fa fa-paper-plane'></i></a>
                 </li>
               </ul>
-              /*
-              <!--
+              {/*
               <ul>
                 <li>
                   <a href={ config.siteEmailUrl }><i className='fa fa-envelope-o'></i></a>
@@ -33,8 +32,7 @@ class SiteLinks extends React.Component {
                   <a href={ config.siteRssUrl }><i className='fa fa-rss'></i></a>
                 </li>
               </ul>
-              -->
-              */
+              */}
             </div>
             );
     }
